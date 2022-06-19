@@ -1,4 +1,4 @@
-# Django Custom User Model with Test Driven Development, Docker and PostgreSQL
+# Django Custom User Model with TDD, Docker and PostgreSQL with Token-based auth.
 
 **Some kinds of projects may have authentication requirements for which Django's built-in User Model is not always appropriate. For instance, on some sites it makes more sense to user an e-mail address as your verification token instead of Username.**
 
